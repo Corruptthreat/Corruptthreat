@@ -9,10 +9,10 @@ I'm Deepak Rawte currently persuing B.Tech in stream of Information Technology a
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Front-end - **HTML, Javascript,CSS,Bootstrap**
 - Backend - **Java, php**
 - Database - **Oracle**
-- Framework - **Spring, React, Nodejs, Laravel**
+- Frameworks - **Spring, React, Nodejs, Laravel**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: Internet users blink less than usual.
