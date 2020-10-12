@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Hello there! <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**Corruptthreat/Corruptthreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+ [![Linkedin Badge](https://img.shields.io/badge/-deepakrawte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrawte/)](https://www.linkedin.com/in/deepakrawte/) 
+[![Gmail Badge](https://img.shields.io/badge/-drawte786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drawte786@gmail.com)](mailto:drawte786@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Deepak Rawte currently persuing B.Tech in stream of Information Technology at NIT Raipur. My strengths are hardworker, self motivating and dedicated towards my work. I have a strong interest in web/app development and competitive programming.
+
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Backend - **Java, php**
+- Database - **Oracle**
+- Framework - **Spring, React, Nodejs, Laravel**
+## Hello World!! 🤔
+- 💬 Ask me about anything and everything.
+- ⚡ Fun fact: Internet users blink less than usual.
+
+
+
+
