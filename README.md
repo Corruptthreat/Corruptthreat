@@ -10,7 +10,7 @@ A full stack developer from Chhattisgarh. I love building applications & discuss
 ### I'm Currently
 
 - 📱 Building a cool web/mobile app for Educational Purpose
-- 📚 Growing as a competitve programer
+- 📚 Growing as a competitve programmer
 - ⚛️ Building open source [react native components][rn-toolkit]
 
 ### Stuff I'm really good at
