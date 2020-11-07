@@ -1,22 +1,23 @@
-<h2> Hello there! <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/Corruptthreat/Corruptthreat/master/assets/avatar.png"/>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+### I'm [Deepak Rawte][homepage]
 
- [![Linkedin Badge](https://img.shields.io/badge/-deepakrawte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrawte/)](https://www.linkedin.com/in/deepakrawte/) 
-[![Gmail Badge](https://img.shields.io/badge/-drawte786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drawte786@gmail.com)](mailto:drawte786@gmail.com)
+A full stack developer from Chhattisgarh. I love building applications & discussing new product ideas.I'm currently persuing B.Tech in stream of Information Technology at NIT Raipur.
 
-I'm Deepak Rawte currently persuing B.Tech in stream of Information Technology at NIT Raipur. My strengths are hardworker, self motivating and dedicated towards my work. I have a strong interest in web/app development and competitive programming.
 
-## ⚡ Technologies
-Talk to me about
+### I'm Currently
+
+- 📱 Building a cool web/mobile app for Educational Purpose
+- 📚 Growing as a competitve programer
+- ⚛️ Building open source [react native components][rn-toolkit]
+
+### Stuff I'm really good at
 - Front-end - **HTML, Javascript,CSS,Bootstrap**
 - Backend - **Java, php**
 - Database - **Oracle**
 - Frameworks - **Spring, React, Nodejs, Laravel**
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- ⚡ Fun fact: Internet users blink less than usual.
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Corruptthreat&layout=compact)][github]
 
-
-
+ [![Linkedin Badge](https://img.shields.io/badge/-deepakrawte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrawte/)](https://www.linkedin.com/in/deepakrawte/) 
+[![Gmail Badge](https://img.shields.io/badge/-drawte786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drawte786@gmail.com)](mailto:drawte786@gmail.com)
