@@ -1,6 +1,6 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/Corruptthreat/Corruptthreat/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Corruptthreat/Corruptthreat/master/assets/avatar.png"/>
 
-### I'm [Deepak Rawte][homepage]
+### I'm [Deepak Rawte]
 
 A full stack developer from Chhattisgarh. I love building applications & discussing new product ideas.I'm currently persuing B.Tech in stream of Information Technology at NIT Raipur.
 
