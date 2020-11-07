@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Corruptthreat/Corruptthreat/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Corruptthreat/Corruptthreat/assets/avatar.png"/>
 
 ### I'm [Deepak Rawte]
 
